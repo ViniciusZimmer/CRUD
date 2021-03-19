@@ -1,2 +1,1 @@
-Sistema crud completo... 
-Criado por Vinicius Zimmer
+CRUD (Create, Read, Update and Delete) with PHP
